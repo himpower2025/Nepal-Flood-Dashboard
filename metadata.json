@@ -1,0 +1,6 @@
+{
+  "name": "Disaster Intelligence Dashboard",
+  "description": "Real-time disaster tracking dashboard displaying casualty stats and top government response operations with Firebase Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
